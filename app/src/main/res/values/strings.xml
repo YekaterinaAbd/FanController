@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FanController</string>
+    <string name="home">Home</string>
+    <string name="stats">Stats</string>
+    <string name="settings">Settings</string>
+    <string name="turn_off">Turn off</string>
+    <string name="turn_on">Turn on</string>
+    <string name="resting">Resting</string>
+    <string name="cooling">Cooling</string>
+    <string name="hello_how_are_you_today">Check your comfort level!</string>
+    <string name="temperature_value">Temperature: %d ℃</string>
+    <string name="humidity_value">Humidity: %d </string>
+    <string name="save">Save</string>
+    <string name="ip_address">IP Address</string>
+    <string name="connect">Connect</string>
+</resources>
