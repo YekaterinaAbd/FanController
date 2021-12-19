@@ -7,17 +7,17 @@
 
     <fragment
         android:id="@+id/home"
-        android:name="com.example.fancontroller.HomeFragment"
+        android:name="com.example.fancontroller.ui.HomeFragment"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/statistics"
-        android:name="com.example.fancontroller.StatsFragment"
+        android:name="com.example.fancontroller.ui.StatsFragment"
         tools:layout="@layout/fragment_stats" />
 
     <fragment
         android:id="@+id/settings"
-        android:name="com.example.fancontroller.SettingsFragment"
+        android:name="com.example.fancontroller.ui.SettingsFragment"
         tools:layout="@layout/fragment_settings" />
 
 </navigation>

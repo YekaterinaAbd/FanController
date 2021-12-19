@@ -1,8 +1,9 @@
-package com.example.fancontroller
+package com.example.fancontroller.ui
 
 import android.content.Context
 import android.widget.Toast
 import androidx.core.content.ContextCompat
+import com.example.fancontroller.R
 
 fun Context.getRed() = ContextCompat.getColor(this, R.color.red)
 

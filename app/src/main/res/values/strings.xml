@@ -8,9 +8,16 @@
     <string name="resting">Resting</string>
     <string name="cooling">Cooling</string>
     <string name="hello_how_are_you_today">Check your comfort level!</string>
-    <string name="temperature_value">Temperature: %d ℃</string>
-    <string name="humidity_value">Humidity: %d </string>
+    <string name="temperature_value">Temperature: %s ℃</string>
+    <string name="temp_big_value">%s ℃</string>
+    <string name="humidity_value">Humidity: %s</string>
     <string name="save">Save</string>
     <string name="ip_address">IP Address</string>
     <string name="connect">Connect</string>
+    <string name="input">Input</string>
+    <string name="switch_mode">Manual</string>
+    <string name="auto_mode">Auto</string>
+    <string name="heating">Heating</string>
+    <string name="average_temperature">Average Temperature, C</string>
+    <string name="average_humidity">Average Humidity, %</string>
 </resources>
